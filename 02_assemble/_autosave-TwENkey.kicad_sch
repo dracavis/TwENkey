@@ -2452,7 +2452,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 54.61 111.125 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005bf16f49)
-    (property "Reference" "SW1" (id 0) (at 54.61 104.648 0))
+    (property "Reference" "SW2" (id 0) (at 54.61 104.648 0))
     (property "Value" "SW_PUSH" (id 1) (at 54.61 106.9594 0))
     (property "Footprint" "kbd_SW:CherryMX_Hotswap_1u" (id 2) (at 54.61 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2535,7 +2535,7 @@
   (symbol (lib_id "Device:D") (at 59.69 114.935 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005bf1727d)
-    (property "Reference" "D1" (id 0) (at 61.6966 113.7666 90)
+    (property "Reference" "D2" (id 0) (at 61.6966 113.7666 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (id 1) (at 61.6966 116.078 90)
@@ -2687,7 +2687,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 54.61 130.175 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c3dce20)
-    (property "Reference" "SW2" (id 0) (at 54.61 123.698 0))
+    (property "Reference" "SW3" (id 0) (at 54.61 123.698 0))
     (property "Value" "SW_PUSH" (id 1) (at 54.61 126.0094 0))
     (property "Footprint" "kbd_SW:CherryMX_Hotswap_1u" (id 2) (at 54.61 130.175 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2700,7 +2700,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 54.61 147.955 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c3dce96)
-    (property "Reference" "SW3" (id 0) (at 54.61 141.478 0))
+    (property "Reference" "SW4" (id 0) (at 54.61 141.478 0))
     (property "Value" "SW_PUSH" (id 1) (at 54.61 143.7894 0))
     (property "Footprint" "kbd_SW:CherryMX_Hotswap_1u" (id 2) (at 54.61 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3038,7 +3038,7 @@
   (symbol (lib_id "Device:D") (at 59.69 133.985 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c3e5cc1)
-    (property "Reference" "D2" (id 0) (at 61.6966 132.8166 90)
+    (property "Reference" "D3" (id 0) (at 61.6966 132.8166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (id 1) (at 61.6966 135.128 90)
@@ -3057,7 +3057,7 @@
   (symbol (lib_id "Device:D") (at 59.69 151.765 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c3e5db3)
-    (property "Reference" "D3" (id 0) (at 61.6966 150.5966 90)
+    (property "Reference" "D4" (id 0) (at 61.6966 150.5966 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (id 1) (at 61.6966 152.908 90)
@@ -3076,7 +3076,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 54.61 165.1 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c6ab630)
-    (property "Reference" "SW4" (id 0) (at 54.61 158.623 0))
+    (property "Reference" "SW5" (id 0) (at 54.61 158.623 0))
     (property "Value" "SW_PUSH" (id 1) (at 54.61 160.9344 0))
     (property "Footprint" "kbd_SW:CherryMX_Hotswap_1u" (id 2) (at 54.61 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3128,7 +3128,7 @@
   (symbol (lib_id "Device:D") (at 59.69 168.91 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c6acff5)
-    (property "Reference" "D4" (id 0) (at 61.6966 167.7416 90)
+    (property "Reference" "D5" (id 0) (at 61.6966 167.7416 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (id 1) (at 61.6966 170.053 90)
@@ -4874,7 +4874,7 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 55.88 90.805 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 22445357-58ab-411d-a512-980252a33f0a)
-    (property "Reference" "SW5" (id 0) (at 61.722 89.8965 90)
+    (property "Reference" "SW1" (id 0) (at 61.722 89.8965 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 61.722 92.6716 90)
@@ -4909,7 +4909,7 @@
   (symbol (lib_id "Device:D") (at 64.135 95.885 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4e06c881-dec3-4ef2-a33d-563ee938f7c1)
-    (property "Reference" "D5" (id 0) (at 66.1416 94.7166 90)
+    (property "Reference" "D1" (id 0) (at 66.1416 94.7166 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D" (id 1) (at 66.1416 97.028 90)
@@ -5342,19 +5342,19 @@
     (path "/00000000-0000-0000-0000-00005cc518dd"
       (reference "#PWR013") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005bf1727d"
+    (path "/4e06c881-dec3-4ef2-a33d-563ee938f7c1"
       (reference "D1") (unit 1) (value "D") (footprint "kbd_Parts:Diode_TH_SMD")
     )
-    (path "/00000000-0000-0000-0000-00005c3e5cc1"
+    (path "/00000000-0000-0000-0000-00005bf1727d"
       (reference "D2") (unit 1) (value "D") (footprint "kbd_Parts:Diode_TH_SMD")
     )
-    (path "/00000000-0000-0000-0000-00005c3e5db3"
+    (path "/00000000-0000-0000-0000-00005c3e5cc1"
       (reference "D3") (unit 1) (value "D") (footprint "kbd_Parts:Diode_TH_SMD")
     )
-    (path "/00000000-0000-0000-0000-00005c6acff5"
+    (path "/00000000-0000-0000-0000-00005c3e5db3"
       (reference "D4") (unit 1) (value "D") (footprint "kbd_Parts:Diode_TH_SMD")
     )
-    (path "/4e06c881-dec3-4ef2-a33d-563ee938f7c1"
+    (path "/00000000-0000-0000-0000-00005c6acff5"
       (reference "D5") (unit 1) (value "D") (footprint "kbd_Parts:Diode_TH_SMD")
     )
     (path "/00000000-0000-0000-0000-00005bf17145"
@@ -5621,20 +5621,20 @@
     (path "/f78dda93-d548-4958-b3ad-9eaeb7ac014f"
       (reference "LED4") (unit 1) (value "LED_SK6812MINI-E") (footprint "kbd_Parts:LED_SK6812MINI-E_BL")
     )
-    (path "/00000000-0000-0000-0000-00005bf16f49"
-      (reference "SW1") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
+    (path "/22445357-58ab-411d-a512-980252a33f0a"
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "kbd_Parts:RotaryEncoder_EC12E")
     )
-    (path "/00000000-0000-0000-0000-00005c3dce20"
+    (path "/00000000-0000-0000-0000-00005bf16f49"
       (reference "SW2") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
     )
-    (path "/00000000-0000-0000-0000-00005c3dce96"
+    (path "/00000000-0000-0000-0000-00005c3dce20"
       (reference "SW3") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
     )
-    (path "/00000000-0000-0000-0000-00005c6ab630"
+    (path "/00000000-0000-0000-0000-00005c3dce96"
       (reference "SW4") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
     )
-    (path "/22445357-58ab-411d-a512-980252a33f0a"
-      (reference "SW5") (unit 1) (value "RotaryEncoder_Switch") (footprint "kbd_Parts:RotaryEncoder_EC12E")
+    (path "/00000000-0000-0000-0000-00005c6ab630"
+      (reference "SW5") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
     )
     (path "/00000000-0000-0000-0000-00005bf16d93"
       (reference "SW6") (unit 1) (value "SW_PUSH") (footprint "kbd_SW:CherryMX_Hotswap_1u")
